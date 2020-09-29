@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects + Master FullStack
 - ⚡ Fun fact: *null/UndefinSed* 🤣
-- 👯 I'm currently looking for a coding partner . 🤣
 
 ### Connect with me:
 
