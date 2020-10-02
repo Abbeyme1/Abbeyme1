@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on "Full stack develpment"!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects + Master FullStack
-- ⚡ Fun fact: *null/UndefinSed* 🤣
+- ⚡ Fun fact: *null/Undefined* 🤣
 
 ### Connect with me:
 
