@@ -1,10 +1,10 @@
 ### Hi there, I'm Abhay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 ---
-## I'm a MERN, Flutter Developer
+## I'm a MERN Stack Developer
 
 - 🔭 I’m currently working on "Full stack develpment"!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects + Master FullStack
+- 🥅 2022 Goals: Contribute more to Open Source projects + Master FullStack
 - ⚡ Fun fact: *null/Undefined* 🤣
 
 ### Connect with me:
