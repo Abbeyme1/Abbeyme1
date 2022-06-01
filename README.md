@@ -1,4 +1,4 @@
-### Hi there, I'm Abhay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there, I'm Abhay
 ---
 ## I'm a MERN Stack Developer
 
